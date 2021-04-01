@@ -209,3 +209,12 @@ hr {
     opacity: 1;
   }
 }
+
+
+button:focus {
+  outline: none;
+}
+
+.button__fit {
+  width: 100%;
+}
